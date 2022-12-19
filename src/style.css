@@ -1,0 +1,57 @@
+.top{
+  color: darkslategrey;
+  text-decoration: none;
+  background-color: lightgrey;
+  font-weight: bold;
+}
+
+.back{
+  background-image: url("../images/fundo.png");
+}
+
+.autor{
+  text-align: center;
+  font-weight: bold;
+}
+
+.body{
+  border: 100px
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+.body-img{
+  margin: 16px;
+  border: 10px solid;
+  border-color: grey;
+}
+
+.title{
+  margin: 16px;
+  color: grey;
+  background-color: transparent;
+}
+.text{
+  margin: 16px;
+}
+a:link {
+  color: darkslategrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: darkslategrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkslategrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: darkslategrey;
+  background-color: transparent;
+  text-decoration: none;
+}
