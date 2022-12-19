@@ -3,22 +3,26 @@
   text-decoration: none;
   background-color: lightgrey;
   font-weight: bold;
+  padding:15px;
+  text-align: justify;
 }
 
 .back{
+  width: 915px;
   background-image: url("../images/fundo.png");
 }
 
 .autor{
   text-align: center;
   font-weight: bold;
+  padding:15px;
 }
 
 .body{
-  border: 100px
   color: black;
   background-color: white;
   text-decoration: none;
+  padding:10px;
 }
 
 .body-img{
@@ -35,22 +39,8 @@
 .text{
   margin: 16px;
 }
-a:link {
-  color: darkslategrey;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: darkslategrey;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: darkslategrey;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:active {
+a {
+  padding 15px;
   color: darkslategrey;
   background-color: transparent;
   text-decoration: none;
